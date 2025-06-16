@@ -1,0 +1,5 @@
+# requirements.txt
+python-telegram-bot
+aiogram==2.25.1
+python-dotenv==0.21.0
+sqlite3==2.6.0
